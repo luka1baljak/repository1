@@ -1,4 +1,4 @@
 Linija 
 Dvije
 Sad dodati još jedan line.
-Bang bang! //Ovo maknuti.
+
